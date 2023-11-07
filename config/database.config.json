@@ -1,0 +1,11 @@
+{
+    "databaseName": "health_monitoring_db",
+    "host": "dpg-cl59ues72pts739v8te0-a",
+    "port": 5432,
+    "schema": "public",
+    "user": "health_monitoring_db_user",
+    "password": "ahdWBHM36S2waJOhNR9mRil518ecz4V9",
+    "usersRelationName": "users",
+    "entriesRelationName": "entries",
+    "ssl": true
+}
