@@ -6,6 +6,5 @@
     "user": "health_monitoring_db_user",
     "password": "ahdWBHM36S2waJOhNR9mRil518ecz4V9",
     "usersRelationName": "users",
-    "entriesRelationName": "entries",
-    "ssl": true
+    "entriesRelationName": "entries"
 }

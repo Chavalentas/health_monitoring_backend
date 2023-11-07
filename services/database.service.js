@@ -415,8 +415,7 @@ const createClient = function(){
         port: dbConfig.port,
         database: dbConfig.databaseName,
         user: dbConfig.user,
-        password: dbConfig.password,
-        ssl: dbConfig.ssl
+        password: dbConfig.password
     });
 
     return client;
